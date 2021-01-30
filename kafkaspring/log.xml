@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-23T18:24:40</date>
+  <millis>1611422680429</millis>
+  <sequence>0</sequence>
+  <logger>com.ennbou.kafkaspring.KafkaspringApplication$$EnhancerBySpringCGLIB$$a0544ef9</logger>
+  <level>INFO</level>
+  <class>com.ennbou.kafkaspring.KafkaspringApplication</class>
+  <method>test</method>
+  <thread>27</thread>
+  <message>test =&gt; successfully</message>
+</record>
+<record>
+  <date>2021-01-23T18:26:24</date>
+  <millis>1611422784449</millis>
+  <sequence>1</sequence>
+  <logger>com.ennbou.kafkaspring.KafkaspringApplication$$EnhancerBySpringCGLIB$$a0544ef9</logger>
+  <level>INFO</level>
+  <class>com.ennbou.kafkaspring.KafkaspringApplication</class>
+  <method>test</method>
+  <thread>27</thread>
+  <message>Client =&gt; save [id:3, name:name1, email:name1@ennbou.com]</message>
+</record>
+<record>
+  <date>2021-01-23T18:29:39</date>
+  <millis>1611422979013</millis>
+  <sequence>2</sequence>
+  <logger>com.ennbou.kafkaspring.KafkaspringApplication$$EnhancerBySpringCGLIB$$a0544ef9</logger>
+  <level>INFO</level>
+  <class>com.ennbou.kafkaspring.KafkaspringApplication</class>
+  <method>test</method>
+  <thread>27</thread>
+  <message>Client =&gt; save [id:3, name:name1, email:OOIIOO@ennbou.com]</message>
+</record>
+<record>
+  <date>2021-01-23T18:41:32</date>
+  <millis>1611423692411</millis>
+  <sequence>3</sequence>
+  <logger>com.ennbou.kafkaspring.KafkaspringApplication$$EnhancerBySpringCGLIB$$a0544ef9</logger>
+  <level>INFO</level>
+  <class>com.ennbou.kafkaspring.KafkaspringApplication</class>
+  <method>test</method>
+  <thread>27</thread>
+  <message>Client =&gt; save [id:4, name:client3, email:]</message>
+</record>
+<record>
+  <date>2021-01-23T18:42:19</date>
+  <millis>1611423739649</millis>
+  <sequence>4</sequence>
+  <logger>com.ennbou.kafkaspring.KafkaspringApplication$$EnhancerBySpringCGLIB$$a0544ef9</logger>
+  <level>INFO</level>
+  <class>com.ennbou.kafkaspring.KafkaspringApplication</class>
+  <method>test</method>
+  <thread>27</thread>
+  <message>Client =&gt; save [id:5, name:client3, email:]</message>
+</record>
+<record>
+  <date>2021-01-23T18:50:08</date>
+  <millis>1611424208315</millis>
+  <sequence>5</sequence>
+  <logger>com.ennbou.kafkaspring.KafkaspringApplication$$EnhancerBySpringCGLIB$$a0544ef9</logger>
+  <level>INFO</level>
+  <class>com.ennbou.kafkaspring.KafkaspringApplication</class>
+  <method>test</method>
+  <thread>27</thread>
+  <message>Client =&gt; save [id:6, name:client3, email:]</message>
+</record>
